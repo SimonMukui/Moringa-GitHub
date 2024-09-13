@@ -18,3 +18,5 @@ B.  Data Visualization
 1.Aircraft Accident Counts:
 
 Bar Chart: Visualize the number of accidents by aircraft make, focusing on the top 10 makes.
+
+Line Plot: Display how accident counts have changed over time for the top ten most accident prone aircraft types.
